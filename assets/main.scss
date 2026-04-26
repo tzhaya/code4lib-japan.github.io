@@ -1,0 +1,20 @@
+---
+---
+
+$background-color: #fff;
+$content-width: 960px;
+
+@import "minima";
+
+.site-nav {
+    float: left;
+}
+
+dt{
+    float: left;
+    font-weight: bold;
+}
+  
+dd{
+    margin-left: 120px;
+}
